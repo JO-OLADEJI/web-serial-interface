@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "types": ["w3c-web-serial"],
+    "lib": ["ESNext", "DOM"],
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" },
+  ],
+}
